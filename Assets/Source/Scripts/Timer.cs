@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using TMPro;
+
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -9,7 +9,7 @@ public class Timer : MonoBehaviour
 {
     [SerializeField] private int duration;
     [SerializeField] private Button addTimeBtn, removeTimeBtn;
-    [SerializeField] private TMP_Text CurTimeText, TimeSpentText;
+    [SerializeField] private Text CurTimeText, TimeSpentText;
 
     float curTimeLeft;
 
