@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feedb217d824a4a5f9af3a34c8bdd90d, type: 3}
+  m_Name: GlyphsDB
+  m_EditorClassIdentifier: 
+  <BaseSprites>k__BackingField:
+  - {fileID: 21300000, guid: d6fd980f8751d47f28fcbffbe4dcb404, type: 3}
+  - {fileID: 21300000, guid: 34be49a56b1714d428ce42a6bd8f57d9, type: 3}
+  - {fileID: 21300000, guid: a92245c78ab8943a687ba093dc181100, type: 3}
+  - {fileID: 21300000, guid: d2f9374da38d24f028c947754f2fed5d, type: 3}
+  - {fileID: 21300000, guid: 7e90f0609039f4addb181b5fe6759f7e, type: 3}
+  - {fileID: 21300000, guid: 8fa23d16eb48d462c88a51ac0c3a2ddf, type: 3}
+  - {fileID: 21300000, guid: 3a014599640cd4c16830aa1277443b8e, type: 3}
+  - {fileID: 21300000, guid: c0255bb33566e4ff4927a801982bf265, type: 3}
+  - {fileID: 21300000, guid: 3fa64b7bdb1eb44de8b73847cb5db16b, type: 3}
+  <FinalSprites>k__BackingField:
+  - {fileID: 21300000, guid: 55f6172c45329417aaf2d4e11cb4a879, type: 3}
+  - {fileID: 21300000, guid: 149fc2a769b064c878425de37e524ff8, type: 3}
+  - {fileID: 21300000, guid: d92185f08e304494e89927795c726565, type: 3}
+  - {fileID: 21300000, guid: 23b981ab38617492bbaa3ddfd79e17ad, type: 3}
+  - {fileID: 21300000, guid: 66aeb68535d3c4831b6cdb6fe36b0189, type: 3}
+  - {fileID: 21300000, guid: cf92265ff132e4ee59f7501f07cf7b63, type: 3}
+  - {fileID: 21300000, guid: f00f2540f1847447e80a7f52ffa6afcd, type: 3}
+  - {fileID: 21300000, guid: 3282c0a30e2dd479c8434496a9c7d4ed, type: 3}
